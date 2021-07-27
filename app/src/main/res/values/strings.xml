@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DominosTraining</string>
+    <string name="near_by_cities">Near by cities</string>
+    <string name="something_went_wrong_please_try_again">Something Went Wrong. Please try again!</string>
+</resources>
